@@ -130,7 +130,8 @@ img{
 }
 
 #loiChuc{
-    margin: 70px 200px;
+    display: flex;
+    align-self: center;
 }
 
 @media only screen and (max-width: 768px) {
