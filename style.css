@@ -120,6 +120,7 @@ h2{
     border-radius: 12px;
     width: 50%;
     margin-left: 300px;
+    font-family: "Questrial" !important;
 }
 section{
     gap: 20px;
